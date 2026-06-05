@@ -1,0 +1,45 @@
+Office Space Planner
+
+Office Space Planner is a practical cad studio workspace for CAD manager teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://office-space.freecadworld.com/
+- https://office-space.freecadworld.com/tool/
+- https://office-space.freecadworld.com/workspace/
+- https://office-space.freecadworld.com/reports/
+- https://office-space.freecadworld.com/guides/
+- https://office-space.freecadworld.com/library/
+- https://office-space.freecadworld.com/templates/
+- https://office-space.freecadworld.com/compare/
+- https://office-space.freecadworld.com/checklists/
+- https://office-space.freecadworld.com/integrations/
+- https://office-space.freecadworld.com/settings/
+- https://office-space.freecadworld.com/plans/
+- https://office-space.freecadworld.com/faq/
+- https://office-space.freecadworld.com/privacy/
+- https://office-space.freecadworld.com/about/
+- https://office-space.freecadworld.com/guides/preflight-a-dwg-package-1/
+- https://office-space.freecadworld.com/guides/standardize-a-drawing-set-2/
+- https://office-space.freecadworld.com/guides/prepare-a-client-handoff-3/
+- https://office-space.freecadworld.com/guides/audit-a-template-4/
+- https://office-space.freecadworld.com/guides/compare-block-options-5/
+- https://office-space.freecadworld.com/guides/document-drawing-assumptions-6/
+- https://office-space.freecadworld.com/guides/preflight-a-dwg-package-7/
+- https://office-space.freecadworld.com/guides/standardize-a-drawing-set-8/
+- https://office-space.freecadworld.com/guides/prepare-a-client-handoff-9/
+- https://office-space.freecadworld.com/guides/audit-a-template-10/
+- https://office-space.freecadworld.com/guides/compare-block-options-11/
+- https://office-space.freecadworld.com/guides/document-drawing-assumptions-12/
+- https://office-space.freecadworld.com/guides/preflight-a-dwg-package-13/
+- https://office-space.freecadworld.com/guides/standardize-a-drawing-set-14/
+- https://office-space.freecadworld.com/guides/prepare-a-client-handoff-15/
+- https://office-space.freecadworld.com/guides/audit-a-template-16/
+- https://office-space.freecadworld.com/guides/compare-block-options-17/
+- https://office-space.freecadworld.com/guides/document-drawing-assumptions-18/
+- https://office-space.freecadworld.com/guides/preflight-a-dwg-package-19/
+- https://office-space.freecadworld.com/guides/standardize-a-drawing-set-20/
+- https://office-space.freecadworld.com/guides/prepare-a-client-handoff-21/
+- https://office-space.freecadworld.com/guides/audit-a-template-22/
+- https://office-space.freecadworld.com/guides/compare-block-options-23/
+- https://office-space.freecadworld.com/guides/document-drawing-assumptions-24/
+- https://office-space.freecadworld.com/guides/preflight-a-dwg-package-25/
